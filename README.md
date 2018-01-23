@@ -1,3 +1,4 @@
 # rlb97.github.io
-For Composing Digital media
+For Composing Digital Media
+
 https://rlb97.github.io/
