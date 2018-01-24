@@ -43,7 +43,7 @@ ul.main-menu>li {
     display: inline;
 }
 
-ul.main-menu>li:not(:first-chid):before{
+li:not(:last-child):after{
     content: " -|- ";   
 }
 
