@@ -13,10 +13,17 @@ body{
 
 a:link{
     color: #E8E9FE;  
+    text-decoration: none;
 }
 
 a:visited{
-    color: #CECECE;   
+    color: #CECECE; 
+    text-decoration: none;
+}
+
+a:hover{
+    color: #B1E5F2;
+    text-decoration: underline;
 }
 
 /* Header */
