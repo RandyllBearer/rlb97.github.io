@@ -9,6 +9,7 @@ light blue: B1E5F2
 /* Global */
 body{
     background-color: #A6A6A8;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
 }
 
 a:link{
@@ -40,4 +41,9 @@ ul.main-menu {
 
 ul.main-menu>li {
     display: inline-block;
+}
+
+/* Footer */
+footer {
+    color: #272635;
 }
