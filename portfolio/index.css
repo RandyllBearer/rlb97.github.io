@@ -1,5 +1,20 @@
+/*
+light: E8E9FE
+light gray: CECECE
+gray: A6A6A8
+Dark blue: 272635
+light blue: B1E5F2
+*/
+
+/* Global */
+body{
+    background-color: #E8E9FE;
+}
+
 /* Header */
-h1 { color: lightgray;}
+h1 { 
+    color: #B1E5F2;
+}
 
 /* Main Menu */
 ul.main-menu {
