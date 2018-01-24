@@ -40,7 +40,7 @@ ul.main-menu {
 }
 
 ul.main-menu>li {
-    display: inline-block;
+    display: inline;
 }
 
 li:not(:first-chid):before{
