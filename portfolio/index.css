@@ -8,7 +8,7 @@ light blue: B1E5F2
 
 /* Global */
 body{
-    background-color: #CECECE;
+    background-color: #A6A6A8;
 }
 
 a:link{
@@ -16,7 +16,7 @@ a:link{
 }
 
 a:visited{
-    color: #A6A6A8;   
+    color: #CECECE;   
 }
 
 /* Header */
