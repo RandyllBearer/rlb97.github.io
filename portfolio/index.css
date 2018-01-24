@@ -8,7 +8,15 @@ light blue: B1E5F2
 
 /* Global */
 body{
-    background-color: #A6A6A8;
+    background-color: #CECECE;
+}
+
+a:link{
+    color: #E8E9FE;  
+}
+
+a:visited{
+    color: #A6A6A8;   
 }
 
 /* Header */
