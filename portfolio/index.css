@@ -78,13 +78,14 @@ main{
 .container_background {
     margin: 10%;
     padding: 3%;
-    background-color: #B1E5F2
+    background-color: #B1E5F2;
+    border-radius: 25px;
 }
 
 .container_content {
     margin: 3%;
     padding: 5%;
-    background-color: #A6A6A8
+    background-color: #A6A6A8;
 }
 
 .header_2 {
