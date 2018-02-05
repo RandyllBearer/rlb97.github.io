@@ -71,18 +71,14 @@ main{
 /* content */
 
 .container_background {
-    position: relative;
     margin: 0 auto;
     width: 80%;
     background-color: #B1E5F2
 }
 
 .container_content {
-    position: absolute;
-    top: 10%;
-    bottom: 10%;
-    left: 10%;
-    right: 10%;
+    margin: 0 auto;
+    padding: 10%;
     background-color: #A6A6A8
 }
 
