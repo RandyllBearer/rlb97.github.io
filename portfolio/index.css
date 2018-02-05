@@ -49,6 +49,17 @@ li:not(:last-child):after{
 
 /* Footer */
 .footer {
-    justify-content: space-between;
     color: #272635;
+}
+
+#footer_name{
+    align: left;   
+}
+
+#footer_email{
+    align: center;
+}
+
+#footer_url{
+    align: right;
 }
