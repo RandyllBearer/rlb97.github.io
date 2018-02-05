@@ -72,6 +72,7 @@ main{
 
 .container_background {
     margin: 0 auto;
+    padding: 10%;
     width: 80%;
     background-color: #B1E5F2
 }
