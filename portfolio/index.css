@@ -34,16 +34,16 @@ main{
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-size: 25px;
-    color: #CECECE;
+    color: #E8E9FE;
     display: block;
 }
 
 .side_menu a:hover {
-    color: #A6A6A8;
+    color: #CECECE;
 }
 
 .side_menu a:visited {
-    color: #CECECE;
+    color: #E8E9FE;
 }
 
 /* Header_1 */
