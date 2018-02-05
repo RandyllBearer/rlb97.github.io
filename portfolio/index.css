@@ -90,7 +90,8 @@ main{
 
 .header_2 {
     text-align: center;
-    font-size: 24px;   
+    font-size: 24px; 
+    padding-bottom: 5%;
 }
 
 .content {
