@@ -78,11 +78,7 @@ main{
 
 .container_content {
     position: relative;
-    margin: auto 0;
-    padding-top: 10%;
-    padding-bottom: 10%;
-    padding-left: 10%;
-    padding-right: 10%;
+    margin: 10%;
     background-color: #A6A6A8
 }
 
