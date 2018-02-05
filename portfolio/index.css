@@ -84,12 +84,12 @@ main{
     background-color: #A6A6A8
 }
 
-.header2 p{
+.header_2 {
     text-align: center;
     font-size: 24px;   
 }
 
-.content p{
+.content {
     font-size: 16px;   
 }
 
