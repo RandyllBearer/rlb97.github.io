@@ -49,18 +49,6 @@ li:not(:last-child):after{
 
 /* Footer */
 .footer {
-    text-align: justify;
     color: #272635;
 }
 
-#footer_name{
-    display: inline-block; 
-}
-
-#footer_email{
-    display: inline-block;
-}
-
-#footer_url{
-    display: inline-block;
-}
