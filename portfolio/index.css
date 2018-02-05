@@ -85,14 +85,14 @@ main{
 .container_background {
     margin: 5%;
     padding: 3%;
-    background-color: #B1B6A6;
+    background-color: #819595;
     border-radius: 25px;
 }
 
 .container_content {
     margin: 1%;
     padding: 5%;
-    background-color: #819595;
+    background-color: #B1B6A6;
     border-radius: 25px;
 }
 
