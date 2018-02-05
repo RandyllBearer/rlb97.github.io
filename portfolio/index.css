@@ -14,10 +14,10 @@ Silver Chalice: #B1B6A6
 
 /*
 font-family: 'Poiret One', cursive;
-font-family: 'Rokkitt', serif;
+font-family: 'Raleway', sans-serif;
 */
 /* Google Fonts */
-@import url('https://fonts.googleapis.com/css?family=Poiret+One|Rokkitt');
+@import url('https://fonts.googleapis.com/css?family=Poiret+One|Raleway');
 
 /* Side_menu */
 .side_menu {
@@ -59,7 +59,7 @@ font-family: 'Rokkitt', serif;
 /* Body */
 body{
     background-color: #363946;
-    font-family: 'Rokkitt', serif;
+    font-family:'Raleway', sans-serif;
 }
 
 /* Main */
