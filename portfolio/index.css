@@ -46,25 +46,11 @@ main{
     color: #E8E9FE;
 }
 
-/* Header */
-h1 { 
+/* Header_1 */
+.header_1 { 
     color: #B1E5F2;
+    font-size: 30px;
     align: center;
-}
-
-/* Main Menu */
-ul.main-menu {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-ul.main-menu>li {
-    display: inline;
-}
-
-li:not(:last-child):after{
-    content: " -|- ";   
 }
 
 /* Footer */
