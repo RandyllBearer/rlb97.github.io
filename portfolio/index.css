@@ -78,9 +78,10 @@ main{
 }
 
 .container_content {
+    position: absolute;
     margin: 0 auto;
-    width: 70%;
-    height: 70%;
+    top: 10%;
+    left: 10%;
     background-color: #A6A6A8
 }
 
