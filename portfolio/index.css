@@ -1,3 +1,9 @@
+/*font sizes
+header1 32
+header2 24
+everything else 16
+*/
+
 /*
 light: E8E9FE
 light gray: CECECE
@@ -62,12 +68,21 @@ main{
     align: center;
 }
 
+/* content */
+
 .container_background {
+    margin:auto;
     background-color: #B1E5F2
 }
 
 .container_content {
+    margin: auto;
     background-color: #A6A6A8
+}
+
+h2 {
+    text-align: center;
+    font-size 24px;   
 }
 
 /* Footer */
