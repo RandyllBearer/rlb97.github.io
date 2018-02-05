@@ -49,7 +49,6 @@ li:not(:last-child):after{
 
 /* Footer */
 .footer {
-    display: flex;
     justify-content: space-between;
     color: #272635;
 }
