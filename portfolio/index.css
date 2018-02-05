@@ -28,7 +28,7 @@ main{
 /* Side_menu */
 .side_menu {
     height: 100%;
-    width: 200px;
+    width: 15%;
     position: fixed;    /*fixes menu in place */
     z-index: 1;         /*forces to stay on top */
     top: 0;             /*stay at the top*/
