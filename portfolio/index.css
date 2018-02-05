@@ -48,6 +48,7 @@ li:not(:last-child):after{
 }
 
 /* Footer */
-footer {
+div footer {
+    display: inline;
     color: #272635;
 }
