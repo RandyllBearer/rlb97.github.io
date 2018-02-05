@@ -36,7 +36,15 @@ font-family: 'Rokkitt', serif;
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-family: 'Poiret One', cursive;
-    font-size: 25px;
+    font-size: 24px;
+    color: #E8E9FE;
+    display: block;
+}
+
+.side_menu p{
+    padding: 6px 8px 6px 16px;
+    font-family: 'Poiret One', cursive;
+    font-size: 24px;
     color: #E8E9FE;
     display: block;
 }
