@@ -6,16 +6,21 @@ Dark blue: 272635
 light blue: B1E5F2
 */
 
-/* Global */
+/* Body */
 body{
     background-color: #A6A6A8;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
 }
 
+/* Main */
+main{
+    margin-left: 200px;
+}
+
 /* Side_menu */
 .side_menu {
     height: 100%;
-    width: 160px;
+    width: 200px;
     position: fixed;    /*fixes menu in place */
     z-index: 1;         /*forces to stay on top */
     top: 0;             /*stay at the top*/
