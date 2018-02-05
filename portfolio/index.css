@@ -78,7 +78,6 @@ main{
 }
 
 .container_content {
-    position: absolute;
     margin: 0 auto;
     top: 10%;
     left: 10%;
