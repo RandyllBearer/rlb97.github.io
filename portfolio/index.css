@@ -25,7 +25,7 @@ main{
     z-index: 1;         /*forces to stay on top */
     top: 0;             /*stay at the top*/
     left: 0;
-    background-color: #B1E5F2;
+    background-color: #CECECE;
     overflow-x: hidden; /*disable horizontal scroll */
     padding-top: 20px;
 }
@@ -39,11 +39,11 @@ main{
 }
 
 .side_menu a:hover {
-    color: #CECECE;
+    color: #A6A6A8;
 }
 
 .side_menu a:visited {
-    color: #A6A6A8;
+    color: #CECECE;
 }
 
 /* Header_1 */
