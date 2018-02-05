@@ -6,10 +6,18 @@ Dark blue: 272635
 light blue: B1E5F2
 */
 
+/*
+font-family: 'Poiret One', cursive;
+font-family: 'Rokkitt', serif;
+*/
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Poiret+One|Rokkitt');
+
+
 /* Body */
 body{
     background-color: #A6A6A8;
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+    font-family: 'Rokkitt', serif;
 }
 
 /* Main */
@@ -33,6 +41,7 @@ main{
 .side_menu a{
     padding: 6px 8px 6px 16px;
     text-decoration: none;
+    font-family: 'Poiret One', cursive;
     font-size: 25px;
     color: #E8E9FE;
     display: block;
@@ -50,6 +59,7 @@ main{
 .header_1 { 
     color: #B1E5F2;
     font-size: 32px;
+    font-family: 'Poiret One', cursive;
     align: center;
 }
 
