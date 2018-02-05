@@ -13,18 +13,6 @@ font-family: 'Rokkitt', serif;
 /* Google Fonts */
 @import url('https://fonts.googleapis.com/css?family=Poiret+One|Rokkitt');
 
-
-/* Body */
-body{
-    background-color: #A6A6A8;
-    font-family: 'Rokkitt', serif;
-}
-
-/* Main */
-main{
-    margin-left: 200px;
-}
-
 /* Side_menu */
 .side_menu {
     height: 100%;
@@ -55,12 +43,31 @@ main{
     color: #E8E9FE;
 }
 
+/* Body */
+body{
+    background-color: #A6A6A8;
+    font-family: 'Rokkitt', serif;
+}
+
+/* Main */
+main{
+    margin-left: 200px;
+}
+
 /* Header_1 */
 .header_1 { 
     color: #B1E5F2;
     font-size: 32px;
     font-family: 'Poiret One', cursive;
     align: center;
+}
+
+.container_background {
+    background-color: #B1E5F2
+}
+
+.container_content {
+    background-color: #A6A6A8
 }
 
 /* Footer */
