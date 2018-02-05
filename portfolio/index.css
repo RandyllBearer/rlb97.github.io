@@ -68,6 +68,11 @@ main{
     align: center;
 }
 
+#header_line {
+    width: 50%;
+    border: 1px solid #B1E5F2;
+}
+
 /* content */
 
 .container_background {
@@ -97,7 +102,7 @@ main{
     font-size: 16px;
 }
 
-hr {
+#footer_line {
     border: 1px solid #B1E5F2;
 }
 
