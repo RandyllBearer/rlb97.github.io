@@ -71,15 +71,14 @@ main{
 /* content */
 
 .container_background {
-    margin: 0 auto;
+    margin: 10%;
     padding: 5%;
-    width: 100%;
     background-color: #B1E5F2
 }
 
 .container_content {
-    margin: 0 auto;
-    padding: 2%;
+    margin: 10%;
+    padding: 5%;
     background-color: #A6A6A8
 }
 
