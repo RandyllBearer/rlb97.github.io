@@ -77,8 +77,8 @@ main{
 }
 
 .container_content {
-    float: left;
     margin: auto;
+    height: 70%;
     width: 70%;
     background-color: #A6A6A8
 }
