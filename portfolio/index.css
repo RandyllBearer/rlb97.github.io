@@ -20,9 +20,6 @@ font-family: 'Raleway', sans-serif;
 @import url('https://fonts.googleapis.com/css?family=Poiret+One|Raleway');
 
 /* Global */
-a:hover {
-    color: #819595;
-}
 
 /* Side_menu */
 .side_menu {
@@ -54,12 +51,12 @@ a:hover {
     display: block;
 }
 
-.side_menu a:hover {
-    color: #FFFFFF;
-}
-
 .side_menu a:visited {
     color: #B1B6A6;
+}
+
+.side_menu a:hover {
+    color: #819595;
 }
 
 /* Body */
