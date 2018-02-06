@@ -56,6 +56,7 @@ a:hover {
 
 .side_menu a:hover {
     color: #819595;
+    background-color: red;
 }
 
 .side_menu a:visited {
