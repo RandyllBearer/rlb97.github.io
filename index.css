@@ -1,0 +1,123 @@
+/*font sizes
+header1 32
+header2 24
+everything else 16
+*/
+
+/*
+Black:          #000000
+Onyx:           #363946
+Dim Gray:       #696773
+Roman Silver:   #819595
+Silver Chalice: #B1B6A6
+*/
+
+/*
+font-family: 'Poiret One', cursive;
+font-family: 'Raleway', sans-serif;
+*/
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Poiret+One|Raleway');
+
+/* Global */
+
+/* Side_menu */
+.side_menu {
+    height: 100%;
+    width: 15%;
+    position: fixed;    /*fixes menu in place */
+    z-index: 1;         /*forces to stay on top */
+    top: 0;             /*stay at the top*/
+    left: 0;
+    background-color: #696773;
+    overflow-x: hidden; /*disable horizontal scroll */
+    padding-top: 20px;
+}
+
+.side_menu a{
+    padding: 0px 0px 0px 16px;
+    text-decoration: none;
+    font-family: 'Poiret One', cursive;
+    font-size: 20px;
+    color: #B1B6A6;
+    display: block;
+}
+
+.side_menu p{
+    padding-left: 16px;
+    font-family: 'Poiret One', cursive;
+    font-size: 20px;
+    color: #B1B6A6;
+    display: block;
+}
+
+.side_menu a:visited {
+    color: #B1B6A6;
+}
+
+.side_menu a:hover {
+    color: #819595;
+}
+
+/* Body */
+body{
+    background-color: #363946;
+    font-family:'Raleway', sans-serif;
+}
+
+/* Main */
+main{
+    margin-left: 15%;
+}
+
+/* Header_1 */
+.header_1 { 
+    color: #819595;
+    font-size: 32px;
+    font-family: 'Poiret One', cursive;
+    align: center;
+}
+
+#header_line {
+    width: 50%;
+    border: 1px solid #696773;
+}
+
+/* content */
+
+.container_background {
+    margin: 5%;
+    padding: 3%;
+    background-color: #819595;
+    border-radius: 25px;
+}
+
+.container_content {
+    margin: 1%;
+    padding: 5%;
+    background-color: #B1B6A6;
+    border-radius: 25px;
+}
+
+.header_2 {
+    text-align: center;
+    font-size: 24px; 
+    padding-bottom: 5%;
+}
+
+.content {
+    font-size: 16px;   
+}
+
+/* Footer */
+.footer {
+    font-family: 'Poiret One', cursive;
+    color: #819595;
+    margin-left: 15%;
+    font-size: 16px;
+}
+
+#footer_line {
+    border: 1px solid #696773;
+}
+
