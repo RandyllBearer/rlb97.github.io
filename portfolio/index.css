@@ -101,6 +101,7 @@ main{
     padding: 5%;
     background-color: #B1B6A6;
     border-radius: 25px;
+    text-shadow: 2px 2px #000000;  
 }
 
 .header_2 {
