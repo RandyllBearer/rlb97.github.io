@@ -97,7 +97,7 @@ main{
     padding: 5%;
     background-color: #B1B6A6;
     border-radius: 25px;
-    text-shadow: 1px 1px #363946;  
+    text-shadow: 0px 1px #363946;  
 }
 
 .header_2 {
@@ -108,7 +108,7 @@ main{
 
 .content {
     font-size: 16px; 
-    text-shadow: 1px 1px #363946;
+    text-shadow: 0px 1px #363946;
 }
 
 /* Footer */
