@@ -5,19 +5,11 @@ everything else 16
 */
 
 /*
-Black:          #000000
-Onyx:           #363946
-Dim Gray:       #696773
-Roman Silver:   #819595
-Silver Chalice: #B1B6A6
-*/
-
-/*
-Yankees Blue:           #1C3144
-Boston University Red:  #D00000
-Selective Yellow:       #FFBA08
-Wild Blue Yonder:       #A2AEBB
-Tufts Blue:             #3F88C5
+Rich Black          #000F08
+Medium Jungle Green #1C3738
+Quartz              #4D4847
+Mint Cream          #F4FFF8
+Pewter Blue         #8BAAAD
 */
 
 /*
@@ -37,7 +29,7 @@ font-family: 'Raleway', sans-serif;
     z-index: 1;         /*forces to stay on top */
     top: 0;             /*stay at the top*/
     left: 0;
-    background-color: #D00000;
+    background-color: #000F08;
     overflow-x: hidden; /*disable horizontal scroll */
     padding-top: 20px;
 }
@@ -47,7 +39,7 @@ font-family: 'Raleway', sans-serif;
     text-decoration: none;
     font-family: 'Poiret One', cursive;
     font-size: 20px;
-    color: #FFBA08;
+    color: #F4FFF8;
     display: block;
 }
 
@@ -55,21 +47,21 @@ font-family: 'Raleway', sans-serif;
     padding-left: 16px;
     font-family: 'Poiret One', cursive;
     font-size: 20px;
-    color: #FFBA08;
+    color: #F4FFF8;
     display: block;
 }
 
 .side_menu a:visited {
-    color: #FFBA08;
+    color: #F4FFF8;
 }
 
 .side_menu a:hover {
-    color: #A2AEBB;
+    color: #4D4847;
 }
 
 /* Body */
 body{
-    background-color: #1C3144;
+    background-color: #1C3738;
     font-family:'Raleway', sans-serif;
 }
 
@@ -80,7 +72,7 @@ main{
 
 /* Header_1 */
 .header_1 { 
-    color: #A2AEBB;
+    color: #4D4847;
     font-size: 32px;
     font-family: 'Poiret One', cursive;
     align: center;
@@ -88,7 +80,7 @@ main{
 
 #header_line {
     width: 50%;
-    border: 1px solid #3F88C5;
+    border: 1px solid #8BAAAD;
 }
 
 /* content */
@@ -96,14 +88,14 @@ main{
 .container_background {
     margin: 5%;
     padding: 3%;
-    background-color: #3F88C5;
+    background-color: #8BAAAD;
     border-radius: 25px;
 }
 
 .container_content {
     margin: 1%;
     padding: 5%;
-    background-color: #A2AEBB;
+    background-color: #F4FFF8;
     border-radius: 25px;
     text-shadow: 0px 1px #363946;  
 }
@@ -122,12 +114,12 @@ main{
 /* Footer */
 .footer {
     font-family: 'Poiret One', cursive;
-    color: #819595;
+    color: #4D4847;
     margin-left: 15%;
     font-size: 16px;
 }
 
 #footer_line {
-    border: 1px solid #696773;
+    border: 1px solid #8BAAAD;
 }
 
