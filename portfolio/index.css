@@ -61,7 +61,7 @@ font-family: 'Raleway', sans-serif;
 
 /* Body */
 body{
-    background-color: #6D7275;
+    background-color: #2D2F30;
     font-family:'Raleway', sans-serif;
 }
 
@@ -88,14 +88,14 @@ main{
 .container_background {
     margin: 5%;
     padding: 3%;
-    background-color: #2D2F30;
+    background-color: #C20114;
     border-radius: 25px;
 }
 
 .container_content {
     margin: 1%;
     padding: 5%;
-    background-color: #97969B;
+    background-color: #6C6B6F;
     border-radius: 25px;
     text-shadow: 0px 1px #363946;  
 }
