@@ -13,6 +13,14 @@ Silver Chalice: #B1B6A6
 */
 
 /*
+Yankees Blue:           #1C3144
+Boston University Red:  #D00000
+Selective Yellow:       #FFBA08
+Wild Blue Yonder:       #A2AEBB
+Tufts Blue:             #3F88C5
+*/
+
+/*
 font-family: 'Poiret One', cursive;
 font-family: 'Raleway', sans-serif;
 */
@@ -29,7 +37,7 @@ font-family: 'Raleway', sans-serif;
     z-index: 1;         /*forces to stay on top */
     top: 0;             /*stay at the top*/
     left: 0;
-    background-color: #696773;
+    background-color: #D00000;
     overflow-x: hidden; /*disable horizontal scroll */
     padding-top: 20px;
 }
@@ -39,7 +47,7 @@ font-family: 'Raleway', sans-serif;
     text-decoration: none;
     font-family: 'Poiret One', cursive;
     font-size: 20px;
-    color: #B1B6A6;
+    color: #FFBA08;
     display: block;
 }
 
@@ -47,21 +55,21 @@ font-family: 'Raleway', sans-serif;
     padding-left: 16px;
     font-family: 'Poiret One', cursive;
     font-size: 20px;
-    color: #B1B6A6;
+    color: #FFBA08;
     display: block;
 }
 
 .side_menu a:visited {
-    color: #B1B6A6;
+    color: #FFBA08;
 }
 
 .side_menu a:hover {
-    color: #819595;
+    color: #A2AEBB;
 }
 
 /* Body */
 body{
-    background-color: #363946;
+    background-color: #1C3144;
     font-family:'Raleway', sans-serif;
 }
 
@@ -72,7 +80,7 @@ main{
 
 /* Header_1 */
 .header_1 { 
-    color: #819595;
+    color: #A2AEBB;
     font-size: 32px;
     font-family: 'Poiret One', cursive;
     align: center;
@@ -80,7 +88,7 @@ main{
 
 #header_line {
     width: 50%;
-    border: 1px solid #696773;
+    border: 1px solid #3F88C5;
 }
 
 /* content */
@@ -88,14 +96,14 @@ main{
 .container_background {
     margin: 5%;
     padding: 3%;
-    background-color: #819595;
+    background-color: #3F88C5;
     border-radius: 25px;
 }
 
 .container_content {
     margin: 1%;
     padding: 5%;
-    background-color: #B1B6A6;
+    background-color: #A2AEBB;
     border-radius: 25px;
     text-shadow: 0px 1px #363946;  
 }
