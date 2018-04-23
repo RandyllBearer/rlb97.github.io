@@ -5,11 +5,11 @@ everything else 16
 */
 
 /*
-Rich Black          #000F08
-Medium Jungle Green #1C3738
-Quartz              #4D4847
-Mint Cream          #F4FFF8
-Pewter Blue         #8BAAAD
+Smoky Black         #0C120C
+Crimson Red         #C20114
+Nickel              #6D7275
+Light Gray          #C7D6D5
+Anti-Flash White    #ECEBF3
 */
 
 /*
@@ -29,7 +29,7 @@ font-family: 'Raleway', sans-serif;
     z-index: 1;         /*forces to stay on top */
     top: 0;             /*stay at the top*/
     left: 0;
-    background-color: #000F08;
+    background-color: #0C120C;
     overflow-x: hidden; /*disable horizontal scroll */
     padding-top: 20px;
 }
@@ -39,7 +39,7 @@ font-family: 'Raleway', sans-serif;
     text-decoration: none;
     font-family: 'Poiret One', cursive;
     font-size: 20px;
-    color: #F4FFF8;
+    color: #C20114;
     display: block;
 }
 
@@ -47,21 +47,21 @@ font-family: 'Raleway', sans-serif;
     padding-left: 16px;
     font-family: 'Poiret One', cursive;
     font-size: 20px;
-    color: #F4FFF8;
+    color: #C20114;
     display: block;
 }
 
 .side_menu a:visited {
-    color: #F4FFF8;
+    color: #C20114;
 }
 
 .side_menu a:hover {
-    color: #4D4847;
+    color: #6D7275;
 }
 
 /* Body */
 body{
-    background-color: #1C3738;
+    background-color: #6D7275;
     font-family:'Raleway', sans-serif;
 }
 
@@ -72,7 +72,7 @@ main{
 
 /* Header_1 */
 .header_1 { 
-    color: #4D4847;
+    color: #C20114;
     font-size: 32px;
     font-family: 'Poiret One', cursive;
     align: center;
@@ -80,7 +80,7 @@ main{
 
 #header_line {
     width: 50%;
-    border: 1px solid #8BAAAD;
+    border: 1px solid #0C120C;
 }
 
 /* content */
@@ -88,14 +88,14 @@ main{
 .container_background {
     margin: 5%;
     padding: 3%;
-    background-color: #8BAAAD;
+    background-color: #C20114;
     border-radius: 25px;
 }
 
 .container_content {
     margin: 1%;
     padding: 5%;
-    background-color: #F4FFF8;
+    background-color: #ECEBF3;
     border-radius: 25px;
     text-shadow: 0px 1px #363946;  
 }
@@ -114,12 +114,12 @@ main{
 /* Footer */
 .footer {
     font-family: 'Poiret One', cursive;
-    color: #4D4847;
+    color: #C20114;
     margin-left: 15%;
     font-size: 16px;
 }
 
 #footer_line {
-    border: 1px solid #8BAAAD;
+    border: 1px solid #0C120C;
 }
 
