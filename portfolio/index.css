@@ -13,6 +13,24 @@ font-family: 'Raleway', sans-serif;
 @import url('https://fonts.googleapis.com/css?family=Poiret+One|Roboto');
 
 /* Global */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px #121212;
+    border-radius: 10px;
+    background: #000000;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #8E010F;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hovver {
+    background: #6D010B;   
+}
 
 /* Side_menu */
 .side_menu {
