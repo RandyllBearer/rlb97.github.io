@@ -82,7 +82,7 @@ main{
 .container_background {
     margin: 5%;
     padding: 3%;
-    background-color: #8E010F;
+    background: linear-gradient(#6D010B, #8E010F, #6D010B);
     border-radius: 25px;
 }
 
