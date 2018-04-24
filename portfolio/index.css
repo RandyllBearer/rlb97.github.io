@@ -14,11 +14,23 @@ font-family: 'Raleway', sans-serif;
 /* Global */
 
 /* Side_menu */
+.side_menu_background {
+    height: 100%;
+    width: 16%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background: linear-gradient(#6D010B, #8E010F, #6D010B);
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
 .side_menu {
     height: 100%;
     width: 15%;
     position: fixed;    /*fixes menu in place */
-    z-index: 1;         /*forces to stay on top */
+    z-index: 2;         /*forces to stay on top */
     top: 0;             /*stay at the top*/
     left: 0;
     background-color: #232323;
