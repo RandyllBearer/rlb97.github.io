@@ -50,6 +50,7 @@ font-family: 'Raleway', sans-serif;
     text-decoration: none;
     text-shadow: 1px 1px #121212;
     font-family: 'Poiret One', cursive;
+    font-weight: bold;
     font-size: 20px;
     color: #8E010F;
     display: block;
@@ -58,7 +59,6 @@ font-family: 'Raleway', sans-serif;
 .side_menu p{
     padding-left: 16px;
     font-family: 'Poiret One', cursive;
-    font-weight: bold;
     font-size: 20px;
     color: #D1D1D1;
     display: block;
