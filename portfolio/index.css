@@ -32,7 +32,7 @@ font-family: 'Raleway', sans-serif;
     text-shadow: 1px 1px #121212;
     font-family: 'Poiret One', cursive;
     font-size: 20px;
-    color: linear-gradient(#6D010B, #8E010F, #6D010B);
+    color: #8E010F;
     display: block;
 }
 
@@ -65,7 +65,7 @@ main{
 
 /* Header_1 */
 .header_1 { 
-    color: linear-gradient(#6D010B, #8E010F, #6D010B);
+    color: #8E010F;
     text-shadow: 1px 1px #000000;
     font-size: 32px;
     font-family: 'Poiret One', cursive;
@@ -119,7 +119,7 @@ main{
 /* Footer */
 .footer {
     font-family: 'Poiret One', cursive;
-    color: linear-gradient(#6D010B, #8E010F, #6D010B);
+    color: #8E010F;
     text-shadow: 1px 1px #000000;
     margin-left: 15%;
     font-size: 16px;
