@@ -21,7 +21,7 @@ font-family: 'Raleway', sans-serif;
     z-index: 1;
     top: 0;
     left: 15%;
-    background: linear-gradient(to right, #232323 #6D010B);
+    background: linear-gradient(to right, #232323, #6D010B);
     /*
     background: linear-gradient(to right, #232323, #000000);
     */
