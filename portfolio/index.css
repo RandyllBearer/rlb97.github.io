@@ -104,7 +104,15 @@ main{
 .content {
     font-size: 16px; 
     color: #D1D1D1;
-    text-shadow: 0px 1px #363946;
+    text-shadow: 0px 1px #121212;
+}
+
+.content a{
+    color: #D1D1D1;
+}
+
+.content a:hover{
+    color: #D9D9D9;   
 }
 
 /* Footer */
