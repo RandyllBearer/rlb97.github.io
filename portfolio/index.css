@@ -50,7 +50,10 @@ font-family: 'Raleway', sans-serif;
     text-decoration: none;
     text-shadow: 1px 1px #121212;
     font-family: 'Poiret One', cursive;
+    font-size: 26px;
+    /*
     font-size: 20px;
+    */
     color: #8E010F;
     display: block;
 }
@@ -58,7 +61,10 @@ font-family: 'Raleway', sans-serif;
 .side_menu p{
     padding-left: 16px;
     font-family: 'Poiret One', cursive;
+     font-size: 26px;
+    /*
     font-size: 20px;
+    */
     color: #D1D1D1;
     display: block;
 }
@@ -86,7 +92,10 @@ main{
 .header_1 { 
     color: #8E010F;
     text-shadow: 1px 1px #000000;
+    font-size: 42px;
+    /*
     font-size: 32px;
+    */
     font-family: 'Poiret One', cursive;
     align: center;
 }
@@ -144,7 +153,10 @@ main{
     color: #8E010F;
     text-shadow: 1px 1px #000000;
     margin-left: 15%;
+     font-size: 26px;
+    /*
     font-size: 16px;
+    */
 }
 
 #footer_line {
