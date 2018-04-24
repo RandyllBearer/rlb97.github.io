@@ -5,14 +5,6 @@ everything else 16
 */
 
 /*
-Smoky Black         #0C120C
-Crimson Red         #C20114
-Nickel              #6D7275
-Light Gray          #C7D6D5
-Anti-Flash White    #ECEBF3
-*/
-
-/*
 font-family: 'Poiret One', cursive;
 font-family: 'Raleway', sans-serif;
 */
@@ -29,7 +21,7 @@ font-family: 'Raleway', sans-serif;
     z-index: 1;         /*forces to stay on top */
     top: 0;             /*stay at the top*/
     left: 0;
-    background-color: #0C120C;
+    background-color: #232323;
     overflow-x: hidden; /*disable horizontal scroll */
     padding-top: 20px;
 }
@@ -39,7 +31,7 @@ font-family: 'Raleway', sans-serif;
     text-decoration: none;
     font-family: 'Poiret One', cursive;
     font-size: 20px;
-    color: #C20114;
+    color: #D9D9D9;
     display: block;
 }
 
@@ -47,7 +39,7 @@ font-family: 'Raleway', sans-serif;
     padding-left: 16px;
     font-family: 'Poiret One', cursive;
     font-size: 20px;
-    color: #C20114;
+    color: #D9D9D9;
     display: block;
 }
 
@@ -61,7 +53,7 @@ font-family: 'Raleway', sans-serif;
 
 /* Body */
 body{
-    background-color: #2D2F30;
+    background-color: #121212;
     font-family:'Raleway', sans-serif;
 }
 
@@ -95,7 +87,7 @@ main{
 .container_content {
     margin: 1%;
     padding: 5%;
-    background-color: #6C6B6F;
+    background-color: #D9D9D9;
     border-radius: 25px;
     text-shadow: 0px 1px #363946;  
 }
