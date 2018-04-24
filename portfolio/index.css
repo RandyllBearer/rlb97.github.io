@@ -8,8 +8,9 @@ everything else 16
 font-family: 'Poiret One', cursive;
 font-family: 'Raleway', sans-serif;
 */
+
 /* Google Fonts */
-@import url('https://fonts.googleapis.com/css?family=Poiret+One|Raleway');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
 
 /* Global */
 
@@ -30,7 +31,7 @@ font-family: 'Raleway', sans-serif;
     padding: 0px 0px 0px 16px;
     text-decoration: none;
     text-shadow: 1px 1px #121212;
-    font-family: 'Poiret One', cursive;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 20px;
     color: #8E010F;
     display: block;
@@ -38,7 +39,7 @@ font-family: 'Raleway', sans-serif;
 
 .side_menu p{
     padding-left: 16px;
-    font-family: 'Poiret One', cursive;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 20px;
     color: #D1D1D1;
     display: block;
@@ -55,7 +56,7 @@ font-family: 'Raleway', sans-serif;
 /* Body */
 body{
     background-color: #121212;
-    font-family:'Raleway', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 /* Main */
@@ -68,7 +69,7 @@ main{
     color: #8E010F;
     text-shadow: 1px 1px #000000;
     font-size: 32px;
-    font-family: 'Poiret One', cursive;
+    font-family: 'Ubuntu', sans-serif;
     align: center;
 }
 
@@ -118,7 +119,7 @@ main{
 
 /* Footer */
 .footer {
-    font-family: 'Poiret One', cursive;
+    font-family: 'Ubuntu', sans-serif;
     color: #8E010F;
     text-shadow: 1px 1px #000000;
     margin-left: 15%;
