@@ -64,7 +64,7 @@ main{
 
 /* Header_1 */
 .header_1 { 
-    color: #C20114;
+    color: #8E010F;
     font-size: 32px;
     font-family: 'Poiret One', cursive;
     align: center;
@@ -72,7 +72,7 @@ main{
 
 #header_line {
     width: 50%;
-    border: 1px solid #0C120C;
+    border: 1px solid #000000;
 }
 
 /* content */
@@ -80,7 +80,7 @@ main{
 .container_background {
     margin: 5%;
     padding: 3%;
-    background-color: #C20114;
+    background-color: #8E010F;
     border-radius: 25px;
 }
 
@@ -106,12 +106,12 @@ main{
 /* Footer */
 .footer {
     font-family: 'Poiret One', cursive;
-    color: #C20114;
+    color: #8E010F;
     margin-left: 15%;
     font-size: 16px;
 }
 
 #footer_line {
-    border: 1px solid #0C120C;
+    border: 1px solid #000000;
 }
 
