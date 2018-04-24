@@ -139,6 +139,11 @@ main{
     color: #8E010F;   
 }
 
+/* Tables */
+tr:hover {
+    background-color: #121212;   
+}
+
 /* Footer */
 .footer {
     font-family: 'Poiret One', cursive;
