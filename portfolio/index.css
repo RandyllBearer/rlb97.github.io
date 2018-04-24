@@ -16,11 +16,11 @@ font-family: 'Raleway', sans-serif;
 /* Side_menu */
 .side_menu_background {
     height: 100%;
-    width: 16%;
+    width: 1%;
     position: fixed;
     z-index: 1;
     top: 0;
-    left: 0;
+    left: 15%;
     background: linear-gradient(to right, #232323, #000000);
     overflow-x: hidden;
     padding-top: 20px;
